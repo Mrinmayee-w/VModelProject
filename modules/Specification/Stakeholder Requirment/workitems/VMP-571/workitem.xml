@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="country" type="enum:Country">Unassigned</field>
+    <field id="created">2022-11-07 09:45:29.843 -0800</field>
+    <field id="currency" type="enum:Currency">Unassigned</field>
+    <field id="description" text-type="text/html">&lt;br/&gt; &lt;img data-lastmodified="2022-11-07T09:38:14.391-08:00" style="width: 290px;height: 200px;" src="attachment:logo.jpeg"/&gt;</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="reqType" type="enum:subtype">functional</field>
+    <field id="severity">should_have</field>
+    <field id="status">draft</field>
+    <field id="type">softwarerequirement</field>
+</work-item>

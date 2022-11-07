@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2022-11-02 10:22:21.511 -0700</field>
+    <field id="description" text-type="text/html">TC1</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="severity">basic</field>
+    <field id="status">draft</field>
+    <field id="type">softwaretestcase</field>
+</work-item>

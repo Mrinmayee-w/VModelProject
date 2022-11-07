@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="cost" type="integer">2000</field>
+    <field id="country" type="enum:Country">Unassigned</field>
+    <field id="created">2022-11-07 09:45:54.015 -0800</field>
+    <field id="currency" type="enum:Currency">USD</field>
+    <field id="description" text-type="text/html">This is req2</field>
+    <field id="previousStatus">draft</field>
+    <field id="priority">50.0</field>
+    <field id="reqType" type="enum:subtype">functional</field>
+    <field id="severity">should_have</field>
+    <field id="status">draft</field>
+    <field id="type">softwarerequirement</field>
+</work-item>

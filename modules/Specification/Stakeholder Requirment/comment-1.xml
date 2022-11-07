@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module-comment>
+    <field id="author">admin</field>
+    <field id="created">2022-11-07 10:12:39.828 -0800</field>
+    <field id="importedComment">
+        <struct>
+            <item id="author">Author</item>
+            <item id="initials">A</item>
+        </struct>
+    </field>
+    <field id="text" text-type="text/html">&lt;p&gt;&lt;span style="font-size: 8pt;"&gt;&lt;/span&gt;&lt;span&gt;Comment from windows user&lt;/span&gt;&lt;/p&gt;</field>
+</module-comment>

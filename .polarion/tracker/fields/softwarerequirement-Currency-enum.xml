@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enumeration>
+    <option id="INR" name="INR"/>
+    <option id="USD" name="USD"/>
+    <option default="true" id="Unassigned" name="Unassigned"/>
+</enumeration>

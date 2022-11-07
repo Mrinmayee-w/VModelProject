@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enumeration>
+    <option id="BCM" name="BCM"/>
+    <option id="XYZ" name="XYZ"/>
+    <option id="ABC" name="ABC"/>
+    <option id="Unassigned" name="Unassigned"/>
+</enumeration>

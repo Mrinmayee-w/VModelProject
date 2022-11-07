@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <field description="Select the Target Release Version for the planned Requirement" id="targetVersion" name="Target Version" type="enum:@plan[template.id:release]"/>
+    <field id="reqType" name="Requirement Type" type="enum:subtype"/>
+    <field id="cost" name="Cost" type="integer"/>
+    <field id="currency" name="Currency" type="enum:Currency"/>
+    <field id="country" name="Country" type="enum:Country"/>
+    <field id="relevance" name="Relevance" type="string"/>
+    <field id="enumattribute" name="Enum Attribute" type="enum:EnumAttribute"/>
+</fields>

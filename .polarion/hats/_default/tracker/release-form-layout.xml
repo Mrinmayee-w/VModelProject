@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<formLayout xmlns="http://polarion.com/schema/WorkItems/FormLayout" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://polarion.com/schema/WorkItems/FormLayout">
+	<horizontal>
+		<vertical>
+			<section>
+				<field id="type"/>
+				<field id="releasePlan"/>
+				<field id="releaseQA"/>
+				<field id="releasePM"/>
+			</section>
+		</vertical>
+		<vertical>
+			<section>
+				<field id="featureFreezeDate"/>
+				<field id="codeFreezeDate"/>
+				<field id="publicLaunch"/>
+				<field id="buildId"/>
+				<field id="build"/>
+			</section> 
+		</vertical> 
+		<vertical>
+			<section>
+				<field id="status"/>
+				<field id="resolution"/>
+				<field id="releaseTestEvidence"/>
+			</section> 
+		</vertical>
+	</horizontal> 
+	<field id="qaAssessment"/> 
+	<field id="description"/> 
+	<field id="comments"/> 
+	<field id="approvals"/> 
+        <field id="workflowSignatures"/>
+	<field id="linkedWorkItems"/> 
+	<field id="hyperlinks"/> 
+	<field id="attachments"/> 
+</formLayout>

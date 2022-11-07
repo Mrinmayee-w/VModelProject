@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-run>
+    <field id="author">admin</field>
+    <field id="created">2022-11-02 11:41:32.110 -0700</field>
+    <field id="description" text-type="text/html" type="text/html">&lt;html&gt;&lt;head&gt;&lt;META http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;&lt;meta content="HTML Tidy for Java (vers. 26 Sep 2004), see www.w3.org" name="generator"&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;​&lt;span style="font-style: italic;" last_known_index="1"&gt;Click "Properties" and provide a short description of the software being tested and the test design itself.&lt;/span&gt;&lt;/body&gt;&lt;/html&gt;</field>
+    <field id="goal" text-type="text/html" type="text/html">&lt;html&gt;&lt;head&gt;&lt;META http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;&lt;meta content="HTML Tidy for Java (vers. 26 Sep 2004), see www.w3.org" name="generator"&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;​​&lt;span style="font-style: italic;" last_known_index="1"&gt;Describe the hi-level goals of this test and pass/fail criteria.&lt;/span&gt;&lt;/body&gt;&lt;/html&gt;</field>
+    <field id="groupId">- -  enter build id - -</field>
+    <field id="records">
+        <list>
+            <struct>
+                <item id="testCase">VMP-545</item>
+            </struct>
+            <struct>
+                <item id="testCase">VMP-544</item>
+            </struct>
+        </list>
+    </field>
+    <field id="selectTestCasesBy">manualSelection</field>
+    <field id="status">open</field>
+    <field id="template">Empty</field>
+    <field id="title">exectuing test case</field>
+    <field id="type">manual</field>
+    <field id="useReportFromTemplate">true</field>
+</test-run>

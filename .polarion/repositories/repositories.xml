@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories>
+  <git>
+    <id>Repo 1</id>
+    <name>Repo 1</name>
+    <enabled>true</enabled>
+    <localRepository>C:\Users\Administrator\Downloads\VModelProject-r81\.git</localRepository>
+    <isMaster>true</isMaster>
+  </git>
+</repositories>
